@@ -1,3 +1,0 @@
-﻿  ladwork7.cpp
-C:\Users\Никита\source\repos\ladwork7\ladwork7\ladwork7.cpp(12,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  ladwork7.vcxproj -> C:\Users\Никита\source\repos\ladwork7\x64\Debug\ladwork7.exe
