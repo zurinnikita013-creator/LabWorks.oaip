@@ -1,0 +1,9 @@
+﻿  lab10.cpp
+C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.50.35717\include\vcruntime.h(192,30): error C2371: size_t: переопределение; различные базовые типы
+  (компиляция исходного файла "lab10.cpp")
+      C:\Users\sa\source\repos\lab10\lab10\lab10.cpp(1,1):
+       см. объявление "size_t"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_stdio_config.h(35,1): error C1189: #error:  Unsupported architecture
+  (компиляция исходного файла "lab10.cpp")
+  
